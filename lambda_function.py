@@ -122,3 +122,4 @@ def lambda_handler(event, context):
         'statusCode': 200,
         'body': ''
     }
+python -m pip install LINE-bot-sdk -t .
